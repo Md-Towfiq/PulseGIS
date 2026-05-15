@@ -13,4 +13,4 @@ pip install -r requests
 pip install -r datetime
 
 # Run health checks
-python pulsegis.py --config config.json
+python pulsegis.py
